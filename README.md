@@ -1,6 +1,4 @@
-## User Story README
-
-## User Story Title: Enhancing Website Accessibility
+## Enhancing Website Accessibility
 
 ### Overview
 
