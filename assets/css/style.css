@@ -1,0 +1,50 @@
+/* Global styles for box-sizing and removing default margins and paddings */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Body background color */
+body {
+    background-color: #d9dcd6;
+}
+
+/* Header styling with specific font and color */
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* Header title styling */
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* Styling for the 'seo' part in the title */
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+/* Navigation menu styling */
+nav ul {
+    list-style-type: none;
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* Link styling for better visibility */
+a {
+    color: #ffffff;
+    text-decoration
