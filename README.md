@@ -1,6 +1,6 @@
 ## Enhancing Website Accessibility
 
-### Overview
+### User Story
 
 As a web developer striving for accessibility compliance, the goal of this user story is to ensure that the website meets established standards. The improvements focus on providing a more accessible experience for users with diverse abilities, enhancing navigation, and understanding of the content.
 
